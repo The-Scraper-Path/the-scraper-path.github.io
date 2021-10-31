@@ -18,10 +18,7 @@ Take a look to the content I expect to write about :)
 ## Content
 
 ### Extracting Data
-* HTML, CSS selectors and XPATH
-* JSON and jmespath
-* Regex
-* Other techniques: OCR, etc.
+* [HTML, CSS selectors, XPATH, JSON, jmespath, regex and other techniques](data_extraction.md)
 
 
 ### Accessing Data
