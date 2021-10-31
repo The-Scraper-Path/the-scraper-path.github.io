@@ -80,7 +80,7 @@ Advantages:
 Disadvantages:
 
 - It is complex to implement as it requires to understand the JavaScript file, building code, etc.
-- You need to use a TLS spoofer (like [uTLS](https://github.com/refraction-networking/utls) in go or [myTLS](https://github.com/zedd3v/mytls) and [Cycle TLS](https://github.com/Danny-Dasilva/CycleTLS) in JavaScript/nodejs) to be credible and avoid mid-term bans.
+- You need to use a TLS spoofer (like [uTLS](https://github.com/refraction-networking/utls) in go or [myTLS](https://github.com/zedd3v/mytls) and [Cycle TLS](https://github.com/Danny-Dasilva/CycleTLS) in JavaScript/nodejs) to be credible and avoid mid-term bans. More on this is the [TLS Fingerprinting section](tls_fingerprinting.md).
 
 ## In-depth: Understanding the "Collector Script" and "sensor_data"
 

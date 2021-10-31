@@ -37,7 +37,7 @@ Take a look to the content I expect to write about :)
 * Captchas
 * Fingerprinting:
   * Browser fingerprinting
-  * TLS Fingerprinting
+  * [TLS Fingerprinting](tls_fingerprinting.md)
 * Antibots: Akamai, Couldfare, distil, imperva/incapsula, permiterX, DataDome, Kasada...
 * [Akamai Antibot in depth](akamai.md)
 
@@ -45,6 +45,9 @@ Take a look to the content I expect to write about :)
 ### Other tools
 * Headless browsers: Selenium, Puppeteer, Playwright
 
+
+### More about scraping
+* Legal aspects and implications
 
 
 And please! Any suggestion is welcomed! Don't hesitate to comment anything on the issues section. 
