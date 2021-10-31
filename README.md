@@ -11,3 +11,44 @@ On this website I would like to freely share with you all my knowledge to build 
 
 Proxies, Antibots, HTTP protocol, data extraction… all you will need to become a successful Scraper will be here.
 
+
+Take a look to the content I expect to write about :) 
+
+
+## Content
+
+### Extracting Data
+* HTML, CSS selectors and XPATH
+* JSON and jmespath
+* Regex
+* Other techniques: OCR, etc.
+
+
+### Accessing Data
+* HTTP protocol, headers, cookies, etc.
+* JavaScript deobfuscation
+* Android reverse engineering
+  * MITM proxies: Mitmproxy, Burpsuite
+  * Certificate Pinning
+  * Frida
+  * Java deobfuscation (JADX, smali...)
+* Cryptography
+
+
+### Avoid Detection
+* [IP Banning: Proxies](https://github.com/The-Scraper-Path/the-scraper-path.github.io/blob/master/proxy.md)
+* Captchas
+* Fingerprinting:
+  * Browser fingerprinting
+  * TLS Fingerprinting
+* Antibots: Akamai, Couldfare, distil, imperva/incapsula, permiterX, DataDome, Kasada...
+
+
+### Other tools
+* Headless browsers: Selenium, Puppeteer, Playwright
+
+
+
+And please! Any suggestion is welcomed! Don't hesitate to comment anything on the issues section. 
+
+Enjoy!
