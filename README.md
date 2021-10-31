@@ -33,12 +33,13 @@ Take a look to the content I expect to write about :)
 
 
 ### Avoid Detection
-* [IP Banning: Proxies](https://github.com/The-Scraper-Path/the-scraper-path.github.io/blob/master/proxy.md)
+* [IP Banning: Proxies](proxy.md)
 * Captchas
 * Fingerprinting:
   * Browser fingerprinting
   * TLS Fingerprinting
 * Antibots: Akamai, Couldfare, distil, imperva/incapsula, permiterX, DataDome, Kasada...
+* [Akamai Antibot in depth](akamai.md)
 
 
 ### Other tools

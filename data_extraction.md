@@ -663,7 +663,7 @@ When needing to **extract information from images** (or **videos**), we can use 
 When needing to **access a value from the JavaScript** code that it's not obviously accessible, you can use different approaches. 
 
 - **Using libraries to handle JavaScript objects:** Like [chompjs](https://github.com/Nykakin/chompjs). This is only valid if the values are in the JavaScript code, it doesn't allow to access values dynamically created.
-- **Run JavaScript** with nodejs**:** [PyExecJS](https://pypi.org/project/PyExecJS/).
+- **Run JavaScript** with nodejs: [PyExecJS](https://pypi.org/project/PyExecJS/).
 - **Rendering websites**: you can use (headless) browsers with automation tools like [selenium](https://selenium-python.readthedocs.io/), [puppeteer](https://github.com/puppeteer/puppeteer), etc. This allows to access objects in memory and to reproduce human behaviors, but it requires a lot of resources and time.
 
 When **parsing / normalizing complex things**:
